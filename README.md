@@ -10,7 +10,7 @@ This is a Supermarket Management System build using JAVA for the group assignmen
 6. CS/2019/017 - Mahawaththa P.R.
 7. CS/2019/055 - Kavindu W.L.P.D.
 
-# Proposed Features of the Application
+# Features of the Application
 
 • The Application starts with a nice-looking splash form which leads to a login form.
 
